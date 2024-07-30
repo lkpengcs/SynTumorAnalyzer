@@ -6,7 +6,7 @@ The official implementation of the paper: Optimizing Synthetic Data for Enhanced
 
 ## Paper
 
-Please cite our paper if you find the code or dataset useful for your research.
+Please cite our [paper](https://arxiv.org/abs/2407.19284) if you find the code or dataset useful for your research.
 
 ## Acknowledgement
 
